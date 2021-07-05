@@ -1,0 +1,32 @@
+
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color:#ff33ff;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.origami{
+     border-radius: 20px;
+     background-color: #dc6432;
+
+     width:310px;
+     font-family: fantasy;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: #62b2ff;
+}
